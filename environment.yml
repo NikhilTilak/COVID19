@@ -1,0 +1,12 @@
+name: covid
+dependencies:
+    - python=3.7
+    - numpy
+    - scipy
+    - pandas
+    - matplotlib
+    - nb_conda
+    - jupyter
+    - seaborn
+    - geopandas
+    - pip
