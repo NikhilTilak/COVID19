@@ -1,51 +1,51 @@
-ST,NAME,LD,CAL,CAR,CENT,FLA,MIDA,MIDW,NE,NY,NW,SE,SW,TEN,TEX,Population,Area,density,Governor,Party affiliation,,,
-AL,Alabama,4/4/20,,,,,,,,,,1,,,,4903185,"50,744",96.62590651,Kay Ivey,Republican Party,,,
-AK,Alaska,3/28/20,,,,,,,,,,,,,,731545,"571,951",1.279034393,Mike Dunleavy,Republican Party,,,
-AZ,Arizona,3/31/20,,,,,,,,,,,1,,,7278717,"113,635",64.05347824,Doug Ducey,Republican Party,,,
-AR,Arkansas,3/31/20,,,,,,1,,,,,,,,3017804,"52,068",57.9588999,Asa Hutchinson,Republican Party,,,
-CA,California,3/19/20,1,,,,,,,,,,,,,39512223,"155,959",253.3500664,Gavin Newsom,Democratic Party,,,
-CO,Colorado,3/26/20,,,,,,,,,1,,,,,5758736,"103,718",55.52301433,Jared Polis,Democratic Party,,,
-CT,Connecticut,3/23/20,,,,,,,1,,,,,,,3565287,"4,845",735.8693498,Ned Lamont,Democratic Party,,,
-DE,Delaware,3/24/20,,,,,1,,,,,,,,,973764,"1,954",498.3439099,John C. Carney Jr.,Democratic Party,,,
-FL,Florida,3/3/20,,,,1,,,,,,,,,,21477737,"53,927",398.2742782,Ron DeSantis,Republican Party,,,
-GA,Georgia,3/19/20,,,,,,,,,,1,,,,10617423,"57,906",183.3561807,Brian Kemp,Republican Party,,,
-HI,Hawaii,3/25/20,,,,,,,,,,,,,,1415872,"6,423",220.4378017,David Ige,Democratic Party,,,
-ID,Idaho,3/25/20,,,,,,,,,1,,,,,1787065,"82,747",21.59673462,Brad Little,Republican Party,,,
-IL,Illinois,3/21/20,,,,,,1,,,,,,,,12671821,"55,584",227.9760543,J.B. Pritzker,Democratic Party,,,
-IN,Indiana,3/24/20,,,,,,1,,,,,,,,6732219,"35,867",187.6995288,Eric Holcomb,Republican Party,,,
-IA,Iowa,,,,,,,1,,,,,,,,3155070,"55,869",56.47264136,Kim Reynolds,Republican Party,,,
-KS,Kansas,3/30/20,,,1,,,,,,,,,,,2913314,"81,815",35.60855589,Laura Kelly,Democratic Party,,,
-KY,Kentucky,3/26/20,,,,,,,,,,,,,,4467673,"39,728",112.4565294,Andy Beshear,Democratic Party,,,
-LA,Louisiana,3/23/20,,,,,,1,,,,,,,,4648794,"43,562",106.7167256,John Bel Edwards,Democratic Party,,,
-ME,Maine,4/2/20,,,,,,,1,,,,,,,1344212,"30,862",43.55556996,Janet T. Mills,Democratic Party,,,
-MD,Maryland,3/30/20,,,,,,,,,,,,,,6045680,"9,774",618.547166,Larry Hogan,Republican Party,,,
-MA,Massachusetts,3/24/20,,,,,,,1,,,,,,,6892503,"7,840",879.1457908,Charles D. Baker,Republican Party,,,
-MI,Michigan,3/24/20,,,,,,1,,,,,,,,9986857,"56,804",175.812566,Gretchen Whitmer,Democratic Party,,,
-MN,Minnesota,3/27/20,,,,,,1,,,,,,,,5639632,"79,610",70.84074865,Tim Walz,Democratic Party,,,
-MS,Mississippi,4/3/20,,,,,,1,,,,,,,,2976149,"46,907",63.44786492,Tate Reeves,Republican Party,,,
-MO,Missouri,4/6/20,,,,,,1,,,,,,,,6137428,"68,886",89.09543303,Mike Parson,Republican Party,,,
-MT,Montana,3/28/20,,,,,,,,,1,,,,,1068778,"145,552",7.342928988,Steve Bullock,Democratic Party,,,
-NE,Nebraska,,,,1,,,,,,,,,,,1934408,"76,872",25.1640129,Pete Ricketts,Republican Party,,,
-NV,Nevada,4/1/20,,,,,,,,,1,,,,,3080156,"109,826",28.04578151,Steve Sisolak,Democratic Party,,,
-NH,New Hampshire,3/27/20,,,,,,,1,,,,,,,1359711,"8,968",151.6180865,Chris Sununu,Republican Party,,,
-NJ,New Jersey,3/21/20,,,,,1,,,,,,,,,8882190,"7,417",1197.544829,Phil Murphy,Democratic Party,,,
-NM,New Mexico,3/24/20,,,,,,,,,,,1,,,2096829,"121,356",17.27832987,Michelle Lujan Grisham,Democratic Party,,,
-NY,New York,3/22/20,,,,,,,,1,,,,,,19453561,"47,214",412.029504,Andrew Cuomo,Democratic Party,,,
-NC,North Carolina,3/30/20,,1,,,,,,,,,,,,10488084,"48,711",215.3124346,Roy Cooper,Democratic Party,,,
-ND,North Dakota,,,,1,,,,,,,,,,,762062,"68,976",11.04821967,Doug Burgum,Republican Party,,,
-OH,Ohio,3/23/20,,,,,1,,,,,,,,,11689100,"40,948",285.4620494,Richard Michael DeWine,Republican Party,,,
-OK,Oklahoma,3/30/20,,,1,,,,,,,,,,,3956971,"68,667",57.62551153,Kevin Stitt,Republican Party,,,
-OR,Oregon,3/23/20,,,,,,,,,1,,,,,4217737,"95,997",43.93613342,Kate Brown,Democratic Party,,,
-PA,Pennsylvania,4/1/20,,,,,,,,,,,,,,12801989,"44,817",285.650289,Tom Wolf,Democratic Party,,,
-RI,Rhode Island,3/28/20,,,,,,,1,,,,,,,1059361,"1,045",1013.742584,Gina Raimondo,Democratic Party,,,
-SC,South Carolina,4/7/20,,1,,,,,,,,,,,,5148714,"30,110",170.9968117,Henry McMaster,Republican Party,,,
-SD,South Dakota,,,,1,,,,,,,,,,,884659,"75,885",11.65789023,Kristi L. Noem,Republican Party,,,
-TN,Tennessee,3/31/20,,,,,,,,,,,,1,,6829174,"41,217",165.688284,Bill Lee,Republican Party,,,
-TX,Texas,4/2/20,,,,,,,,,,,,,1,28995881,"261,797",110.7571172,Greg Abbott,Republican Party,,,
-UT,Utah,3/30/20,,,,,,,,,1,,,,,3205958,"82,144",39.02851091,Gary Herbert,Republican Party,,,
-VT,Vermont,3/25/20,,,,,,,1,,,,,,,623989,"9,250",67.45827027,Phil Scott,Republican Party,,,
-VA,Virginia,3/30/20,,,,,1,,,,,,,,,8535519,"39,594",215.5760721,Ralph Northam,Democratic Party,,,
-WA,Washington,3/23/20,,,,,,,,,1,,,,,7614893,"66,544",114.4339535,Jay Inslee,Democratic Party,,,
-WV,West Virginia,3/24/20,,,,,1,,,,,,,,,1792147,"24,078",74.43089127,Jim Justice,Republican Party,,,
-WI,Wisconsin,3/25/20,,,,,,1,,,,,,,,5822434,"54,310",107.207402,Tony Evers,Democratic Party,,,
-WY,Wyoming,3/28/20,,,,,,,,,1,,,,,578759,"97,100",5.960442842,Mark Gordon,Republican Party,,,
+ST,NAME,FIPS,LD,CAL,CAR,CENT,FLA,MIDA,MIDW,NE,NY,NW,SE,SW,TEN,TEX,Population,Area,density,Governor,Party affiliation
+AL,Alabama,1,4/4/20,,,,,,,,,,1,,,,4903185,"50,744",96.62590651,Kay Ivey,Republican Party
+AK,Alaska,2,3/28/20,,,,,,,,,,,,,,731545,"571,951",1.279034393,Mike Dunleavy,Republican Party
+AZ,Arizona,4,3/31/20,,,,,,,,,,,1,,,7278717,"113,635",64.05347824,Doug Ducey,Republican Party
+AR,Arkansas,5,3/31/20,,,,,,1,,,,,,,,3017804,"52,068",57.9588999,Asa Hutchinson,Republican Party
+CA,California,6,3/19/20,1,,,,,,,,,,,,,39512223,"155,959",253.3500664,Gavin Newsom,Democratic Party
+CO,Colorado,8,3/26/20,,,,,,,,,1,,,,,5758736,"103,718",55.52301433,Jared Polis,Democratic Party
+CT,Connecticut,9,3/23/20,,,,,,,1,,,,,,,3565287,"4,845",735.8693498,Ned Lamont,Democratic Party
+DE,Delaware,10,3/24/20,,,,,1,,,,,,,,,973764,"1,954",498.3439099,John C. Carney Jr.,Democratic Party
+FL,Florida,12,3/3/20,,,,1,,,,,,,,,,21477737,"53,927",398.2742782,Ron DeSantis,Republican Party
+GA,Georgia,13,3/19/20,,,,,,,,,,1,,,,10617423,"57,906",183.3561807,Brian Kemp,Republican Party
+HI,Hawaii,15,3/25/20,,,,,,,,,,,,,,1415872,"6,423",220.4378017,David Ige,Democratic Party
+ID,Idaho,16,3/25/20,,,,,,,,,1,,,,,1787065,"82,747",21.59673462,Brad Little,Republican Party
+IL,Illinois,17,3/21/20,,,,,,1,,,,,,,,12671821,"55,584",227.9760543,J.B. Pritzker,Democratic Party
+IN,Indiana,18,3/24/20,,,,,,1,,,,,,,,6732219,"35,867",187.6995288,Eric Holcomb,Republican Party
+IA,Iowa,19,,,,,,,1,,,,,,,,3155070,"55,869",56.47264136,Kim Reynolds,Republican Party
+KS,Kansas,20,3/30/20,,,1,,,,,,,,,,,2913314,"81,815",35.60855589,Laura Kelly,Democratic Party
+KY,Kentucky,21,3/26/20,,,,,,,,,,,,,,4467673,"39,728",112.4565294,Andy Beshear,Democratic Party
+LA,Louisiana,22,3/23/20,,,,,,1,,,,,,,,4648794,"43,562",106.7167256,John Bel Edwards,Democratic Party
+ME,Maine,23,4/2/20,,,,,,,1,,,,,,,1344212,"30,862",43.55556996,Janet T. Mills,Democratic Party
+MD,Maryland,24,3/30/20,,,,,,,,,,,,,,6045680,"9,774",618.547166,Larry Hogan,Republican Party
+MA,Massachusetts,25,3/24/20,,,,,,,1,,,,,,,6892503,"7,840",879.1457908,Charles D. Baker,Republican Party
+MI,Michigan,26,3/24/20,,,,,,1,,,,,,,,9986857,"56,804",175.812566,Gretchen Whitmer,Democratic Party
+MN,Minnesota,27,3/27/20,,,,,,1,,,,,,,,5639632,"79,610",70.84074865,Tim Walz,Democratic Party
+MS,Mississippi,28,4/3/20,,,,,,1,,,,,,,,2976149,"46,907",63.44786492,Tate Reeves,Republican Party
+MO,Missouri,29,4/6/20,,,,,,1,,,,,,,,6137428,"68,886",89.09543303,Mike Parson,Republican Party
+MT,Montana,30,3/28/20,,,,,,,,,1,,,,,1068778,"145,552",7.342928988,Steve Bullock,Democratic Party
+NE,Nebraska,31,,,,1,,,,,,,,,,,1934408,"76,872",25.1640129,Pete Ricketts,Republican Party
+NV,Nevada,32,4/1/20,,,,,,,,,1,,,,,3080156,"109,826",28.04578151,Steve Sisolak,Democratic Party
+NH,New Hampshire,33,3/27/20,,,,,,,1,,,,,,,1359711,"8,968",151.6180865,Chris Sununu,Republican Party
+NJ,New Jersey,34,3/21/20,,,,,1,,,,,,,,,8882190,"7,417",1197.544829,Phil Murphy,Democratic Party
+NM,New Mexico,35,3/24/20,,,,,,,,,,,1,,,2096829,"121,356",17.27832987,Michelle Lujan Grisham,Democratic Party
+NY,New York,36,3/22/20,,,,,,,,1,,,,,,19453561,"47,214",412.029504,Andrew Cuomo,Democratic Party
+NC,North Carolina,37,3/30/20,,1,,,,,,,,,,,,10488084,"48,711",215.3124346,Roy Cooper,Democratic Party
+ND,North Dakota,38,,,,1,,,,,,,,,,,762062,"68,976",11.04821967,Doug Burgum,Republican Party
+OH,Ohio,39,3/23/20,,,,,1,,,,,,,,,11689100,"40,948",285.4620494,Richard Michael DeWine,Republican Party
+OK,Oklahoma,40,3/30/20,,,1,,,,,,,,,,,3956971,"68,667",57.62551153,Kevin Stitt,Republican Party
+OR,Oregon,41,3/23/20,,,,,,,,,1,,,,,4217737,"95,997",43.93613342,Kate Brown,Democratic Party
+PA,Pennsylvania,42,4/1/20,,,,,,,,,,,,,,12801989,"44,817",285.650289,Tom Wolf,Democratic Party
+RI,Rhode Island,44,3/28/20,,,,,,,1,,,,,,,1059361,"1,045",1013.742584,Gina Raimondo,Democratic Party
+SC,South Carolina,45,4/7/20,,1,,,,,,,,,,,,5148714,"30,110",170.9968117,Henry McMaster,Republican Party
+SD,South Dakota,46,,,,1,,,,,,,,,,,884659,"75,885",11.65789023,Kristi L. Noem,Republican Party
+TN,Tennessee,47,3/31/20,,,,,,,,,,,,1,,6829174,"41,217",165.688284,Bill Lee,Republican Party
+TX,Texas,48,4/2/20,,,,,,,,,,,,,1,28995881,"261,797",110.7571172,Greg Abbott,Republican Party
+UT,Utah,49,3/30/20,,,,,,,,,1,,,,,3205958,"82,144",39.02851091,Gary Herbert,Republican Party
+VT,Vermont,50,3/25/20,,,,,,,1,,,,,,,623989,"9,250",67.45827027,Phil Scott,Republican Party
+VA,Virginia,51,3/30/20,,,,,1,,,,,,,,,8535519,"39,594",215.5760721,Ralph Northam,Democratic Party
+WA,Washington,53,3/23/20,,,,,,,,,1,,,,,7614893,"66,544",114.4339535,Jay Inslee,Democratic Party
+WV,West Virginia,54,3/24/20,,,,,1,,,,,,,,,1792147,"24,078",74.43089127,Jim Justice,Republican Party
+WI,Wisconsin,55,3/25/20,,,,,,1,,,,,,,,5822434,"54,310",107.207402,Tony Evers,Democratic Party
+WY,Wyoming,56,3/28/20,,,,,,,,,1,,,,,578759,"97,100",5.960442842,Mark Gordon,Republican Party
